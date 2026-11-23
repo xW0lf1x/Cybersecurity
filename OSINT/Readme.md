@@ -1,7 +1,7 @@
 OSINT Projects
 This directory contains practical exercises focused on Open Source Intelligence (OSINT), using different tools and techniques to collect, analyze and interpret publicly available information.
 Projects
-1. GHunt
+1. Have been pwned and what is my ip
 
 Investigation of publicly exposed information associated with Google accounts using OSINT techniques.
 
